@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://te.legra.ph/file/3f51fece5df1c1bd6245a.mp4" alt="Lazy Princess Logo">
+  <img src="https://te.legra.ph/file/d68a71c976c462927d0a8.jpg" alt="Tamil Rockers Logo">
 </p>
 <h1 align="center">
-  <b> Lazy Princess BOT </b>
+  <b> Tamil Rockers BOT </b>
 </h1>
 
 ## ⚡️Features
