@@ -1,5 +1,5 @@
-# with Love @LazyDeveloperr 💘
-# Subscribe YT @LazyDeveloperr - to learn more about this for free...
+# with Love @TamilRockers_LinkZz 💘
+# Subscribe YT @TamilRockers_LinkZz - to learn more about this for free...
 
 import logging
 logging.basicConfig(level=logging.DEBUG,
