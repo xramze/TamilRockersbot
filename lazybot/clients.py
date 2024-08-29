@@ -1,9 +1,9 @@
-    # Credit @LazyDeveloper.
+    # Credit @TamilRockers_LinkZz.
     # Please Don't remove credit.
-    # Born to make history @LazyDeveloper !
+    # Born to make history @TamilRockers_LinkZz !
 
     # Thank you LazyDeveloper for helping us in this Journey
-    # 🥰  Thank you for giving me credit @LazyDeveloperr  🥰
+    # 🥰  Thank you for giving me credit @TamilRockers_LinkZz  🥰
 
     # for any error please contact me -> telegram@LazyDeveloperr or insta @LazyDeveloperr 
 import asyncio
