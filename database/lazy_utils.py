@@ -1,6 +1,6 @@
-    # Credit @LazyDeveloper.
+    # Credit @TamilRockers_LinkZz.
     # Please Don't remove credit.
-        # Born to make history @LazyDeveloper !
+        # Born to make history @TamilRockers_LinkZz !
 
     # Thank you LazyDeveloper for helping us in this Journey
 
