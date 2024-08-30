@@ -27,7 +27,7 @@ BOT_TOKEN = environ['6474615985:AAGxDUXvMbFheKlvEkh5dfnlFH2F8uV0O2c']
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', False))
 PICS = (environ.get('PICS', 'https://te.legra.ph/file/3f51fece5df1c1bd6245a.mp4')).split()
-PRIME_LOGO = (environ.get('PRIME_LOGO', 'https://te.legra.ph/file/3f51fece5df1c1bd6245a.mp4'))
+PRIME_LOGO = (environ.get('PRIME_LOGO', 'https://te.legra.ph/file/d68a71c976c462927d0a8.jpg'))
 
 # Admins, Channels & Users *
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '19553188').split()]
@@ -63,7 +63,7 @@ UPI_ID = environ.get('UPI_ID', 'itszram@ikwik') #enter your upi id here - grab i
 # Others
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/TamilMov_Tutorial/3') # Tutorial video link for opening shortlink website 
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'LazyDeveloper')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/TamilMov_chat')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
 SINGLE_BUTTON = is_enabled((environ.get('SINGLE_BUTTON', "False")), False)
